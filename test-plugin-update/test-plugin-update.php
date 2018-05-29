@@ -2,7 +2,7 @@
 /*
 Plugin Name: Test Update Plugin
 Plugin URI: https://kaiserrobin.eu
-Description: Test Update Plugin
+Description: Test Update Plugin which does nothing but update itself.
 Version: 0.9.3
 Author: Robin Kaiser
 Author URI: https://kaiserrobin.eu
